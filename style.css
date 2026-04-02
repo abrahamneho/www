@@ -30,3 +30,25 @@ text-align:center;
 padding:10px;
 margin-top:20px;
 }
+
+body{
+font-family: Arial;
+background:#f4f4f4;
+text-align:center;
+}
+
+.doc-container{
+margin-top:40px;
+}
+
+textarea{
+width:400px;
+}
+
+button{
+padding:10px;
+background:black;
+color:white;
+border:none;
+cursor:pointer;
+}
